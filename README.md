@@ -774,3 +774,5 @@ app.ports.outboundPort.unsubscribe(handleData);
 |Objects|Records|
 |JSON|[Json.Encode.Value](http://package.elm-lang.org/packages/elm-lang/core/latest/Json-Encode#Value)|
 |null|Maybe Nothing|
+
+# PR Merge: 2025-11-26 01:55:20
